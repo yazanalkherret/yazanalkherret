@@ -36,8 +36,6 @@ Developed a real-time anomaly detection system for Zero Trust architectures, ach
 
 **Flight Booker** - Full-stack flight booking platform with Ruby on Rails, featuring complex relational database design and optimized multi-table queries.
 
-**Point of Sale System** - Java-based POS application with MySQL integration for inventory and customer management.
-
 ---
 
 ## What I'm Learning
