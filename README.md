@@ -1,41 +1,49 @@
-# Hi, I’m Yazan
+# Yazan Alkherret
 
-I’m a computer science student with a strong interest in **backend engineering** and **API-driven systems**.  
-My work focuses on designing clear service boundaries, maintainable data models, and predictable application behavior.
-
----
-
-## 🔹 Selected Projects
-
-### GJU Campus Events
-Backend service for managing university events, including event creation, discovery, and user participation.  
-Designed as a **RESTful API** with clear separation between controllers, services, and persistence layers.
-
-### Spring Boot Banking Application
-Backend banking system modeling accounts, transactions, and balance updates.  
-Emphasizes **layered architecture**, data consistency, validation, and structured error handling using Spring Boot.
-
-### Flight Booker Backend
-Backend API for searching flights and managing reservations.  
-Focused on request modeling, business logic encapsulation, and working with relational data under realistic constraints.
+**Computer Science Student** @ Rheinland-Pfälzische Technische Universität / German Jordanian University  
+Kaiserslautern, Germany | [LinkedIn](https://linkedin.com/in/yazanalkherret) | career.yazan@gmail.com
 
 ---
 
-## 🔹 Technical Focus
-- Backend systems and API design  
-- Data modeling and transactional logic  
-- Writing readable, maintainable Java code  
+## About Me
+
+I'm a CS student who enjoys the challenge of building systems that scale. Whether it's designing REST APIs, developing Android applications, or training ML models to detect network anomalies, I'm drawn to work that requires both technical depth and practical thinking.
 
 ---
 
-## 🔹 Tools & Technologies
-- Java, Spring Boot  
-- Python  
-- SQL  
-- Git / Linux  
+## Technical Skills
+
+**Languages**: Python, Java, Kotlin, Ruby, C, C++, JavaScript  
+**Backend & Frameworks**: Spring Boot, Ruby on Rails, REST APIs, Microservices  
+**Mobile Development**: Android SDK, Jetpack Compose, Firebase  
+**Tools**: SQL, NoSQL, Docker, Git, Linux, Bash
 
 ---
 
-## 🔹 Engineering Approach
-I value **clear abstractions**, **explicit tradeoffs**, and code that is easy to reason about.  
-I regularly revisit projects to improve structure, correctness, and design decisions.
+## Recent Work
+
+**Software Engineering Intern** @ ProgressSoft  
+Refactored a banking application into a modern Spring Boot REST API with layered architecture, migrated to Spring Data JPA with MySQL.
+
+**ML & Security Research Assistant** @ USC × GJU  
+Developed a real-time anomaly detection system for Zero Trust architectures, achieving ~0.93 F1 score on 3M+ network logs using OPTICS clustering.
+
+---
+
+## Featured Projects
+
+**Campus Events** - Android event management app with real-time updates, built with Kotlin and Jetpack Compose. Led a team of 5 through full development lifecycle from wireframes to deployment.
+
+**Flight Booker** - Full-stack flight booking platform with Ruby on Rails, featuring complex relational database design and optimized multi-table queries.
+
+**Point of Sale System** - Java-based POS application with MySQL integration for inventory and customer management.
+
+---
+
+## What I'm Learning
+
+Currently diving into distributed systems architecture and cloud-native design patterns. I find the intersection of theory and practice fascinating, especially when it comes to building systems that need to handle real-world constraints. Always looking for opportunities to work on challenging backend systems.
+
+---
+
+Open to internship opportunities and interesting collaborations. If you're working on something challenging, I'd love to hear about it.
