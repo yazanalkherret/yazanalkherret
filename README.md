@@ -22,7 +22,7 @@ I'm a CS student who enjoys the challenge of building systems that scale. Whethe
 
 ## Recent Work
 
-**Software Engineering Intern** @ ProgressSoft  
+**Software Engineer Intern** @ ProgressSoft  
 Refactored a banking application into a modern Spring Boot REST API with layered architecture, migrated to Spring Data JPA with MySQL.
 
 **ML & Security Research Assistant** @ USC × GJU  
@@ -32,9 +32,9 @@ Developed a real-time anomaly detection system for Zero Trust architectures, ach
 
 ## Featured Projects
 
-**Campus Events** - Android event management app with real-time updates, built with Kotlin and Jetpack Compose. Led a team of 5 through full development lifecycle from wireframes to deployment.
+**Campus Events** - Android event management app with real-time updates, built with Kotlin and Jetpack Compose.
 
-**Flight Booker** - Full-stack flight booking platform with Ruby on Rails, featuring complex relational database design and optimized multi-table queries.
+**Flight Booker** - flight booking backend with Ruby on Rails, featuring complex relational database design and optimized multi-table queries.
 
 ---
 
