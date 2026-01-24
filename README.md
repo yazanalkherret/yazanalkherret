@@ -25,7 +25,7 @@ I’m a computer science student specializing in backend development, with a str
 **Software Engineer Intern** @ ProgressSoft  
 Refactored a banking application into a modern Spring Boot REST API with layered architecture, migrated to Spring Data JPA with MySQL.
 
-**ML & Security Research Assistant** @ USC × GJU  
+**ML & Security Research Assistant** @ Purdue × GJU  
 Developed a real-time anomaly detection system for Zero Trust architectures, achieving ~0.93 F1 score on 3M+ network logs using OPTICS clustering.
 
 ---
